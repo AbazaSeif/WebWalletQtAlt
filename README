@@ -1,4 +1,4 @@
-JSON-RPC WEB WALLET
+Altcoin WEB WALLET
 
 This is a PHP (no database required) web wallet script designed for use with Cryptonite and its variants.
 
@@ -13,8 +13,5 @@ REQUIREMENTS:
 * PHP >= 5.4 with BCMATH
 * cryptonited >= 14090315
 
-INSTALLATION:
-
-* upload files to server
-* run /install/install.php
-* delete /install/ folder
+for more informations
+write to me Telegram : Seif_Abaza1
